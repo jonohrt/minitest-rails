@@ -8,11 +8,8 @@ notifications:
     - mike@blowmage.com
 rvm:
   - 2.1
-  - 2.0
-  - 1.9.3
 env:
-  - "RAILS_VERSION=4.1"
-  - "RAILS_VERSION=4.2"
+  - "RAILS_VERSION=5.0"
 notifications:
   webhooks:
     urls:
